@@ -1,0 +1,16 @@
+PODS:
+  - PerformanceLibWynk (0.1.0)
+
+DEPENDENCIES:
+  - PerformanceLibWynk (from `../`)
+
+EXTERNAL SOURCES:
+  PerformanceLibWynk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PerformanceLibWynk: ccf197fd3f27100a4f8be93a036be69ef0ecd57f
+
+PODFILE CHECKSUM: e6cdb5b42ba95742932a8aa575d83f0cdc00a8b7
+
+COCOAPODS: 1.9.3

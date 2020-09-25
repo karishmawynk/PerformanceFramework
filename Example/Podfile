@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PerformanceLibWynk_Example' do
+  pod 'PerformanceLibWynk', :path => '../'
+
+  target 'PerformanceLibWynk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

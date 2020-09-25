@@ -1,0 +1,6 @@
+framework module PerformanceLibWynk {
+  umbrella header "PerformanceLibWynk-umbrella.h"
+
+  export *
+  module * { export * }
+}

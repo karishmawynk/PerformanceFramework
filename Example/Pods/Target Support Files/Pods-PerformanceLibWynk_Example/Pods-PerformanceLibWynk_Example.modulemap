@@ -1,0 +1,6 @@
+framework module Pods_PerformanceLibWynk_Example {
+  umbrella header "Pods-PerformanceLibWynk_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
